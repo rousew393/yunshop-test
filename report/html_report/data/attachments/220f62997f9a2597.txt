@@ -1,0 +1,8 @@
+INFO     conftest:conftest.py:43 开始执行测试用例
+用例编号：TC_API_GOODS_009
+所属模块：商品模块
+用例名称：商品详情-正常
+优先级：P0
+前置条件：商品ID=1存在且上架
+测试描述：验证获取商品详情成功
+预期结果：data包含goods/images/attrs

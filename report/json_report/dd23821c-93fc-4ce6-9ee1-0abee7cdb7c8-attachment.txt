@@ -1,0 +1,8 @@
+INFO     conftest:conftest.py:43 开始执行测试用例
+用例编号：TC_API_USER_018
+所属模块：用户模块
+用例名称：登录状态检查-未登录
+优先级：P1
+前置条件：未登录
+测试描述：验证未登录状态返回false
+预期结果：code=200, data=false
